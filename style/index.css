@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* height: 100%; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* banner section */
+.banner{
+    background-image: url(../images/banner/banner3.png);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+
+.container{
+    width: 490px;
+    height: 280px;
+    position: absolute;
+    top: 130px;
+    left: 870px;
+   
+}
+
+.banner-title{
+
+    font-weight: 700;
+    text-align: right;
+    font-size: 40px;
+    line-height: 45px;
+    color: #FFFFFF;
+    margin: 0 50px;
+    margin-bottom: 20px;
+}
+
+.banner-description{
+    
+    font-size: 16px;
+    text-align: right;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin: 0 50px;
+    margin-bottom: 25px;
+}
+
+.button-primary{
+
+    font-size: 20px;
+    font-weight: 600;
+    color:  #005FAC;
+    background-color:#FFFFFF;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 312px;
+    
+    /* position: absolute; */
+}
