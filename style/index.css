@@ -131,6 +131,7 @@ body{
 .watch-image{
     margin:100px;
     background-image: linear-gradient(blue,redyellow);
+    
 }
 
 .watch-content{
@@ -168,3 +169,43 @@ body{
     width: 100%;
     content: ''; 
   } */
+
+  /* footer section */
+
+  .foter-container{
+    display: flex;
+    color: white;
+    padding: 250px;
+    gap: 50px;
+    
+  }
+
+  footer{
+    margin-top: 200px;
+    background-color: black;
+  }
+
+  .footer-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 20px;
+  }
+
+  .foter-content img{
+    padding: 10px;
+  }
+
+  #input-field{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .button-primary2{
+    padding: 15px 25px 15px 25px;
+    background-color: #005FAC;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 10px;
+  }
